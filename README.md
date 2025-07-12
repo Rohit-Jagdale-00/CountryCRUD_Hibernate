@@ -4,13 +4,13 @@ A simple Java console application to perform CRUD operations on countries and re
 
 ---
 🧰 Technologies Used
--Java
+  -Java
 
--Hibernate (Native)
+  -Hibernate (Native)
 
--PostgreSQL
+  -PostgreSQL
 
--Maven
+  -Maven
 
 ---
 
@@ -20,24 +20,24 @@ Uses Hibernate with native SQL queries for full control over database operations
 
 📌 CRUD Operations for regions Table
 
--Create a new region
+ -Create a new region
 
--View all regions
+  -View all regions
 
--Update existing region name
+  -Update existing region name
 
--Delete a region by ID
+  -Delete a region by ID
 
 
 🌍 CRUD Operations for countries Table
 
--Insert a new country with region reference
+  -Insert a new country with region reference
 
--View all countries
+  -View all countries
 
--Update country name
+  -Update country name
 
--Delete a country by country ID
+  -Delete a country by country ID
 
 ---
 
