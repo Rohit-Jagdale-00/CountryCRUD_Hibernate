@@ -6,7 +6,7 @@ A simple Java console application to perform CRUD operations on countries and re
 🧰 Technologies Used
 -Java
 
--Hibernate (Native SQL)
+-Hibernate (Native)
 
 -PostgreSQL
 
@@ -15,7 +15,7 @@ A simple Java console application to perform CRUD operations on countries and re
 ---
 
 ✨ Features
-✅ Hibernate Integration (Native SQL)
+✅ Hibernate Integration (Native)
 Uses Hibernate with native SQL queries for full control over database operations.
 
 📌 CRUD Operations for regions Table
