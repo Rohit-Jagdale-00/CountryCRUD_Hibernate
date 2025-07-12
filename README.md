@@ -1,5 +1,6 @@
 # CountryCRUD_Hibernate
-
+---
+A simple Java console application to perform CRUD operations on countries and regions tables using Hibernate with native SQL queries.
 Project Structure
 ```HibernateCountryRegionCRUD/
 ├── src/
