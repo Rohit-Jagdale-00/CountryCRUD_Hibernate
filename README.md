@@ -15,7 +15,7 @@ Project Structure
 │   │   ├── HibernateUtil.java
 │   │   └── Main.java
 │   └── Hibernate.cfg.xml
-
+└── pom.xml
 ```
 Image(Screenshot)
 
