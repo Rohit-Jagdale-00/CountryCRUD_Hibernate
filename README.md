@@ -2,6 +2,15 @@
 ---
 A simple Java console application to perform CRUD operations on countries and regions tables using Hibernate with native SQL queries.
 Project Structure
+---
+🧰 Technologies Used
+Java
+
+Hibernate (Native SQL)
+
+PostgreSQL
+
+Maven
 ```HibernateCountryRegionCRUD/
 ├── src/
 │   ├── entity/
