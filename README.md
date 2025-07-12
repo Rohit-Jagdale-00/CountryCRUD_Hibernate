@@ -4,15 +4,39 @@ A simple Java console application to perform CRUD operations on countries and re
 
 ---
 🧰 Technologies Used
-Java
+-Java
 
-Hibernate (Native SQL)
+-Hibernate (Native SQL)
 
-PostgreSQL
+-PostgreSQL
 
-Maven
+-Maven
+---
+✨ Features
+✅ Hibernate Integration (Native SQL)
+Uses Hibernate with native SQL queries for full control over database operations.
 
-Project Structure
+📌 CRUD Operations for regions Table
+
+-Create a new region
+
+-View all regions
+
+-Update existing region name
+
+-Delete a region by ID
+
+🌍 CRUD Operations for countries Table
+
+-Insert a new country with region reference
+
+-View all countries
+
+-Update country name
+
+-Delete a country by country ID
+---
+🗂️ Project Structure
 ```
 ├── src/
 │   ├── entity/
@@ -29,11 +53,11 @@ Project Structure
 │   └── Hibernate.cfg.xml
 └── pom.xml
 ```
-Image(Screenshot)
+🖼️ Screenshot
 
 <img width="353" height="209" alt="Screenshot 2025-07-12 183558" src="https://github.com/user-attachments/assets/4d5867e5-3b1a-4d47-98aa-a0409b456947" />
 
-Contact Details
+📬 Contact Details
 
 Name :Rohit Jagdale
 
