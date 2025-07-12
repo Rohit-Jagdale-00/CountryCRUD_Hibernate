@@ -11,7 +11,9 @@ A simple Java console application to perform CRUD operations on countries and re
 -PostgreSQL
 
 -Maven
+
 ---
+
 ✨ Features
 ✅ Hibernate Integration (Native SQL)
 Uses Hibernate with native SQL queries for full control over database operations.
@@ -26,6 +28,7 @@ Uses Hibernate with native SQL queries for full control over database operations
 
 -Delete a region by ID
 
+
 🌍 CRUD Operations for countries Table
 
 -Insert a new country with region reference
@@ -35,7 +38,9 @@ Uses Hibernate with native SQL queries for full control over database operations
 -Update country name
 
 -Delete a country by country ID
+
 ---
+
 🗂️ Project Structure
 ```
 ├── src/
